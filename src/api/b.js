@@ -1,5 +1,3 @@
 module.exports = function (ctx) {
-  ctx.body = {
-    message: 'hello from b',
-  };
+  ctx.body = 'hello from b';
 };
